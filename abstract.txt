@@ -1,0 +1,3 @@
+In the present scenario, the voice search operations are performed only in English language . So we are going to introduce a voice recognition system, Dhwani, that takes the input as Malayalam speech and then performs the search. Malayalam voice based
+search- Dhwani provides a platform to recognize Malayalam voice spoken through an external or internal mic. The system then performs the search based on the spoken words and shows the search result, which is related Malayalam pages .The existing
+system only recognizes English and shows wrong results with change in accents.
